@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Hanken+Grotesk:wght@500;700;800&family=Manrope:wght@200;500;600;700&family=Playfair+Display:wght@600;700&family=Poppins:wght@300;400;600;700&display=swap');
+
+html {
+    font-family: 'Poppins', sans-serif !important;
+}
+
+.navbar-nav li {
+    margin-right: 1rem !important;
+}
+
+.btn {
+    background-color: #FF6433 !important;
+    color: white !important;
+}
+
+/* services section */
+#service-section {
+    background-color: #E2E6E9 !important;
+}
+
+/* swipper section */
+#swipper-section {
+    background-color: #F2F2F2 !important;
+}
+
+#accordion {
+    background-color: #E2E6E9 !important;
+}
+
+.form-place input {
+    height: 65px !important;
+}
+
+/* Accordion */
+.accordin {
+    width: 70% !important;
+    margin: 0 auto !important;
+    display: flex !important;
+    flex-direction: column !important;
+    gap: 1rem !important;
+}  
+
+.myButton {
+    background-color: white !important;
+}
+
+.accordion-button:focus, .accordion-button:active  {
+    outline: none !important;
+    box-shadow: none !important;
+}
+
+#footer {
+    background-color: #1E1B1B !important;
+    color: white !important;
+}
