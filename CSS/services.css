@@ -18,3 +18,8 @@ html {
 #cards {
     background-color: #E2E6E9 !important;
 }
+
+#footer {
+    background-color: #1E1B1B !important;
+    color: white !important;
+}
