@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Hanken+Grotesk:wght@500;700;800&family=Manrope:wght@200;500;600;700&family=Playfair+Display:wght@600;700&family=Poppins:wght@300;400;600;700&display=swap');
+
+html {
+    font-family: 'Poppins', sans-serif !important;
+}
+
+#footer {
+    background-color: black !important;
+    color: white !important;
+}
+
+#list li a {
+    color: white !important;
+}
+
+.btn {
+    background-color: #FF6433 !important;
+    color: white !important;
+}
