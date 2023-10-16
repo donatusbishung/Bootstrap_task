@@ -20,22 +20,16 @@ const swiper = new Swiper('.swiper', {
 
   allowTouchMove: true,
 
-  mousewheel: {
-    invert: true,
-  },
-
-  // Navigation arrows
-//   navigation: {
-//     nextEl: '.swiper-button-next',
-//     prevEl: '.swiper-button-prev',
-//   },
+  // mousewheel: {
+  //   invert: true,
+  // },
 
     // Responsive breakpoints
   breakpoints: {
     // when window width is >= 320px
     320: {
       slidesPerView: 1,
-      spaceBetween: 20
+      spaceBetween: 40
     },
 
     360: {
